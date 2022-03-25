@@ -81,6 +81,17 @@
             <q-item-label caption lines="1">Routes</q-item-label>
           </q-item-section>
         </q-item>
+        <q-item clickable>
+          <q-item-section top avatar>
+            <!-- <q-avatar color="primary" text-color="white" icon="bluetooth" /> -->
+            <q-icon name="factory" />
+          </q-item-section>
+
+          <q-item-section>
+            <q-item-label>Dumping Sites</q-item-label>
+            <q-item-label caption lines="1">Dumping rates</q-item-label>
+          </q-item-section>
+        </q-item>
       </q-list>
     </q-drawer>
 
